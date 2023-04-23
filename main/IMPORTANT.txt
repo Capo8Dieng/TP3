@@ -1,0 +1,3 @@
+Par CAPO Sabrina et DIENG Marie-Ange.
+
+La classe domotique.java et le boutton Home App sur le layourt de sport.xml ne sont pas demandés dans l'exercice et servent uniquement à permettre l'affichage des deux exercices (sport et domotique) sur l'écran du téléphone.
